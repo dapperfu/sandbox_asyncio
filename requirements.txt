@@ -1,3 +1,6 @@
 
 jupyter
 notebook
+isort
+black
+autopep8
